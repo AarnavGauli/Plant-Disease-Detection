@@ -1,0 +1,9 @@
+flask
+flask-jwt-extended
+pymongo
+tensorflow
+numpy
+python-dotenv
+pillow
+werkzeug
+flask-cors
